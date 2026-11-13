@@ -1,0 +1,16 @@
+# Large climate datasets
+*.nc
+*.zarr
+
+# API credentials and private request information
+.cdsapirc
+*api_key*
+*request_ids.json
+*retry_request_ids.json
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Colab temporary files
+.ipynb_checkpoints/
