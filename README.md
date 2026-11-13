@@ -112,13 +112,13 @@ The project uses the following technologies and Python libraries:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/heatwave-prediction-india.git
+git clone https://github.com/Rishita1902/Heatwave-Prediction-India.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd heatwave-prediction-india
+cd Heatwave-Prediction-India
 ```
 
 Install the required dependencies:
